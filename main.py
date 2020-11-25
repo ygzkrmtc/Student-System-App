@@ -8,8 +8,8 @@ import _sqlite3
 #defining variables
 students_information = []
 lecture_list = []
-admin = "yağızkiremitci"
-admin_password = "Kiremitci.yagiz98"
+admin = "admin"
+admin_password = "admin98"
 con = _sqlite3.connect("ögrenci_sistemi.db")
 cursor = con.cursor()
 
