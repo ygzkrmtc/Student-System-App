@@ -1,4 +1,4 @@
-# Student-System
+# Welcome to Student System App
 # --------------------------------------------
 # Run main function
 # To save student datas please download SQLite
